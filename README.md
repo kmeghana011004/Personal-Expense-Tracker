@@ -45,18 +45,6 @@ expense-tracker/
 
 ---
 
-## 📸 Screenshots
-
-### Add Expense
-
-![Add Expense](https://via.placeholder.com/600x300.png?text=Add+Expense+Screenshot)
-
-### Delete Expense
-
-![Delete Expense](https://via.placeholder.com/600x300.png?text=Delete+Expense+Screenshot)
-
----
-
 ## 🔮 Future Enhancements
 
 * 🔹 Category & Date filtering
